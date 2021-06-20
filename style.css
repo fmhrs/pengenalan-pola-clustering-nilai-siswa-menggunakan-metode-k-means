@@ -1,0 +1,9 @@
+input.transparent-input{
+    max-width: 100%;
+    background-color:rgba(0,0,0,0) !important;
+    border:none !important;
+}
+
+.blurr{
+    background: rgba(0, 0, 0, 0.2);
+}
